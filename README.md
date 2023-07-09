@@ -1,2 +1,0 @@
-# LuckyShrubPrac
-META grade Assesment
